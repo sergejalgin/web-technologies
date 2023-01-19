@@ -7,5 +7,16 @@ const user = prompt(`Введите имя`)
 greeting(user);
 
 function greeting(name) {
-    alert(`Привет, ${name}!`);
+    console.log(`Привет, ${name}!`);
 }
+
+
+
+// 2 вариант - для вывода на экран
+// const user = prompt(`Введите имя`)
+// greeting(user);
+
+// function greeting(name) {
+//     alert(`Привет, ${name}!`);
+// }
+
