@@ -3,17 +3,17 @@
 // Cоздать функцию greeting, которая принимает имя и выводит приветствие, используя переданное имя, в консоль.
 // Необходимо у пользователя запросить имя и вызвать функцию greeting, передав туда данное значение.
 
-const user = prompt(`Введите имя`)
-greeting(user);
+// const user = prompt(`Введите имя`);
+// greeting(user);
 
-function greeting(name) {
-    console.log(`Привет, ${name}!`);
-}
+// function greeting(name) {
+//     console.log(`Привет, ${name}!`);
+// }
 
 
 
 // 2 вариант - для вывода на экран
-// const user = prompt(`Введите имя`)
+// const user = prompt(`Введите имя`);
 // greeting(user);
 
 // function greeting(name) {
